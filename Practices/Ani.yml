@@ -1,0 +1,8 @@
+- name: Kitty
+  color: Red
+  age: 5
+  gender: Male
+- name: Tommy
+  color: Black
+  age: 3
+  gender: Female
